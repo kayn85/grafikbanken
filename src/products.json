@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "artnr": "RTX4090",
+    "title": "NVIDIA GeForce RTX 4090",
+    "beskrivning": "Högpresterande grafikkort för gaming och professionell användning",
+    "pris": "1,407"
+  },
+  {
+    "id": "2",
+    "artnr": "RTX4080Ti",
+    "title": "NVIDIA GeForce RTX 4080 Ti",
+    "beskrivning": "Kraftfull grafikkort för 4K-upplösning och intensiva spel",
+    "pris": "703"
+  },
+  {
+    "id": "3",
+    "artnr": "RX7900XTX",
+    "title": "AMD Radeon RX 7900 XTX",
+    "beskrivning": "Högpresterande grafikkort för gaming och professionell användning",
+    "pris": "879"
+  },
+  {
+    "id": "4",
+    "artnr": "RTX4080",
+    "title": "NVIDIA GeForce RTX 4080",
+    "beskrivning": "Kraftfull grafikkort för 4K-upplösning och intensiva spel",
+    "pris": "1,055"
+  },
+  {
+    "id": "5",
+    "artnr": "RTX4070Ti",
+    "title": "NVIDIA GeForce RTX 4070 Ti",
+    "beskrivning": "Högpresterande grafikkort för gaming och professionell användning",
+    "pris": "703"
+  },
+  {
+    "id": "6",
+    "artnr": "RX7900XT",
+    "title": "AMD Radeon RX 7900 XT",
+    "beskrivning": "Kraftfull grafikkort för 4K-upplösning och intensiva spel",
+    "pris": "791"
+  },
+  {
+    "id": "7",
+    "artnr": "RTX3090Ti",
+    "title": "NVIDIA GeForce RTX 3090 Ti",
+    "beskrivning": "Högpresterande grafikkort för gaming och professionell användning",
+    "pris": "1,759"
+  },
+  {
+    "id": "8",
+    "artnr": "RX6950XT",
+    "title": "AMD Radeon RX 6950 XT",
+    "beskrivning": "Kraftfull grafikkort för 4K-upplösning och intensiva spel",
+    "pris": "967"
+  },
+  {
+    "id": "9",
+    "artnr": "RTX4090Mobile",
+    "title": "NVIDIA GeForce RTX 4090 Mobile",
+    "beskrivning": "Högpresterande mobil grafikkort för gaming och professionell användning",
+    "pris": "2,200"
+  }
+]
